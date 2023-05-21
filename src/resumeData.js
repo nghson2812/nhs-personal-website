@@ -22,7 +22,7 @@ let resumeData = {
       ],
     "aboutme":"Second-year CS student. My passion for computers and programming brought me to the College of Engineering and Computer Science at VinUniversity. The most crucial thing I took away from my college was how to tackle problems using inventive thinking and an entrepreneurial attitude. Be willing to learn and work in the software field.",
     "address":"Vietnam",
-    "website":"",
+    "email":"nghson2812@gmail.com",
     "education":[
       {
           "UniversityName":"VinUniversity",
@@ -71,12 +71,8 @@ let resumeData = {
     ],
     "contact":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Feel Free to contact me for any works or suggestions below",
+        "name":"Nguyen Hoang Son"
       }
     ]
   }
