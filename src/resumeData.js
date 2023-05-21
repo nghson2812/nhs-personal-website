@@ -2,7 +2,7 @@ let resumeData = {
     "name": "Nguyen Hoang Son",
     "role": "Frontend Developer",
     "linkedinId":"nghson2812",
-    "roleDescription": " Great to welcome you visit my personal website. Please contact me following the below information. Be willing to learn and work in the software field.",
+    "roleDescription": " Great to welcome you visit my personal website. Please contact me following the below information.",
     "socialLinks":[
         {
           "name":"linkedin",
